@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
 /*main styles*/
+
 body {
-  background-color: rgb(205, 148, 255);
-}
+
+  background-color: rgb(235, 216, 250);
 p{
   font-size: 2em;
   text-align: center;
@@ -16,11 +17,4 @@ nav ul {
 }
 nav ul a {
   text-decoration: none;
-}
-nav ul li{
-
-}
-
-/*list styles*/
-
-/*sections styles*/
+  <style>
