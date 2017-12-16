@@ -2,13 +2,15 @@
 
 /*main styles*/
 
+
 body {
+text-emphasis-color:rgb(235, 216, 250)
+font-family: sans-serif;
+background-image: url(https://images.fineartamerica.com/images-medium-large-5/italy-flag-vintage-distressed-finish-design-turnpike.jpg);
 
-  background-color: rgb(235, 216, 250);
+
 p{
-  font-size: 2em;
-  text-align: center;
-
+  font-size: 4em;
 }
 /*nav styles*/
 nav ul {
@@ -17,4 +19,4 @@ nav ul {
 }
 nav ul a {
   text-decoration: none;
-  <style>
+  <style>}
